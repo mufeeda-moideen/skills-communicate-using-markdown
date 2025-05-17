@@ -19,3 +19,6 @@ Here is an image of a SUNSET:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Create project repository
+- [ ] Setup github actions
+- [ ] write unit tests
