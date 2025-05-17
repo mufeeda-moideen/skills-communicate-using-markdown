@@ -16,4 +16,6 @@ Here is an image of a SUNSET:
 
 ![Sunset](https://images.unsplash.com/photo-1501973801540-537f08ccae7b?auto=format&fit=crop&w=600&q=60)
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
